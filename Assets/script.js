@@ -65,4 +65,7 @@ var akanNames = function(){
     document.getElementById('year').value=" ";
     document.getElementById('day').value = " ";
     document.getElementById('month').value = " ";
+
+    // Function to display Akan Name
+    document.getElementById("info").innerHTML = "Your Akan name is: " + name;
 }

@@ -28,4 +28,14 @@ var akanNames = function(){
         alert("Please enter valid month between 1 and 12.");
          break;
     }
+
+    // function for year
+    var year = (document.getElementById('year').value)-0;
+    console.log(typeof year);
+
+    var century = (year/100)|0;
+    var cc = Math.floor(century/4) - 2 * century - 1;
+    console.log('century: ' + century);
+    var yy = year % 100;
+    console.log('last two digits :' + yy);
 }

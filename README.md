@@ -12,7 +12,7 @@ Lawrence is a Fullstack developer who studied coding in Moringa School under ACC
 * You need a GitHub account.
 * Browser like Google Chrome and internet connection.
 * You can clone this repo in Terminal through: git clone https://github.com/LawiOtieno/Ghanaian_Akan_Names/
-* You can click this link to run and know your Akan Name https://lawiotieno.github.io/Ghanaian_Akan_Names/
+* You can click this link: https://lawiotieno.github.io/Ghanaian_Akan_Names/ to run and know your Akan Name
 
 ## BDD
 There no identified bug so far.
@@ -22,7 +22,7 @@ This website was developed using HTML, CSS and JS programming languages. Coding 
 * HTML: Used to develop the whole website.
 * CSS: Used to style the website to be appealing and stand-out.
 * Bootstrap 5: Used for styling.
-* JavaScript" Used for form validation, all calculations and displaying Output
+* JavaScript: Used for form validation, all calculations and displaying Output
 
 ## Contact Information
 For any Suppoert or Feedback, fill free to contact the me through: 

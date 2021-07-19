@@ -38,4 +38,25 @@ var akanNames = function(){
     console.log('century: ' + century);
     var yy = year % 100;
     console.log('last two digits :' + yy);
+
+    var monthLeng = Math.floor(26*(month + 1)/10);
+    console.log('month: ' + monthLeng);
+    var yearValue = Math.floor (5*yy/4);
+    console.log('yearValue:' + yearValue);
+    var weekDay = (day + monthLeng + yearValue + cc) % 7;
+    console.log('day of the week: '+ weekDay);
+
+    // Gender determination
+    var gender = document.querySelector('.gender:checked').value;
+    console.log(gender);
+    var name = ' ';
+
+    if (gender === 'Male'){
+        name = mNames[weekDay];
+    
+    }else if(gender === 'Female'){
+        name = fmNames[weekDay];
+    }else {
+        alert('Please select one gender.');
+    }
 }

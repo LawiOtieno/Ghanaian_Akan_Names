@@ -1,5 +1,5 @@
-body{
-    background-image: url("./images/World\ Map\ Ghana.svg"); 
+section{
+    background-image: url("./images/worldmap.svg"); 
    background-repeat: no-repeat;
    background-size: cover;
 }

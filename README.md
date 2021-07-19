@@ -6,7 +6,7 @@ This is a Website application that enables anybody around the globe to know thei
 
 ## Author(s) Information
 Lawrence is a Fullstack developer who studied coding in Moringa School under ACCESS SPONSORSHIP.
-He is good at JavaScript programming Language.
+<p>He is good at JavaScript programming Language.</p>
 
 ## Setup Instructions
 * You need a GitHub account.
@@ -23,3 +23,11 @@ This website was developed using HTML, CSS and JS programming languages. Coding 
 * CSS: Used to style the website to be appealing and stand-out.
 * Bootstrap 5: Used for styling.
 * JavaScript" Used for form validation, all calculations and displaying Output
+
+## Contact Information
+For any Suppoert or Feedback, fill free to contact the me through: 
+* Email at lawifirst@gmail.com 
+* Phone on +254708581688
+* Website visit: [Lawi Otieno Github](https://github.com/LawiOtieno).
+
+<p>I am open for any collaboration, recommendation and update suggestions.</p>

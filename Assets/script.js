@@ -59,4 +59,10 @@ var akanNames = function(){
     }else {
         alert('Please select one gender.');
     }
+
+
+    // Getting all elements by IDs
+    document.getElementById('year').value=" ";
+    document.getElementById('day').value = " ";
+    document.getElementById('month').value = " ";
 }

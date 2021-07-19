@@ -11,7 +11,7 @@ Lawrence is a Fullstack developer who studied coding in Moringa School under ACC
 ## Setup Instructions
 * You need a GitHub account.
 * Browser like Google Chrome and internet connection.
-* You can clone this repo in Terminal through: git clone https://github.com/LawiOtieno/Ghanaian_Akan_Names/settings
+* You can clone this repo in Terminal through: git clone https://github.com/LawiOtieno/Ghanaian_Akan_Names/
 * You can click this link to run and know your Akan Name https://lawiotieno.github.io/Ghanaian_Akan_Names/
 
 ## BDD

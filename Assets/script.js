@@ -7,4 +7,9 @@ var akanNames = function(){
     var invalidDay = function(dd){
         return dd <= 0 || dd > 31;
     };
+
+    // function to verify month
+    var invalidMonth = function (mm) {
+        return mm <= 0 || mm > 12;
+    };
 }
